@@ -1,0 +1,42 @@
+[33mcommit 325e35673c1c2a06993ffa807644d86c5f5bb192[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: M.Haroon <mharoonn2003@gmail.com>
+Date:   Mon Aug 26 13:20:28 2024 +0430
+
+    Assignment 12 libraries of flutter
+
+[33mcommit 174025f777d120209f68e76fded04a09ab81c207[m
+Merge: 569fcb7 e01d11f
+Author: M.Haroon <mharoonn2003@gmail.com>
+Date:   Mon Aug 12 14:14:19 2024 +0430
+
+    Merge branch 'master' of https://github.com/mharoon2003/flutter-assignments
+
+[33mcommit 569fcb70104931c86a3d5568134a7cbd6c228074[m
+Author: M.Haroon <mharoonn2003@gmail.com>
+Date:   Mon Aug 12 14:08:23 2024 +0430
+
+    assignment 10 some log in pages
+
+[33mcommit e01d11f0fbaa5e71b3d4857a95c8b45bc3bdcbb8[m
+Author: MHaroon <168306532+mharoon2003@users.noreply.github.com>
+Date:   Sun Jul 28 14:57:13 2024 +0430
+
+    Update README.md
+
+[33mcommit 3c0dc099b262e4c231367b9249f0085d52e94584[m
+Author: MHaroon <168306532+mharoon2003@users.noreply.github.com>
+Date:   Sun Jul 28 14:56:39 2024 +0430
+
+    Create README.md
+
+[33mcommit 56bb87e2fa967432f60f1fa7aa08dd16f68d398e[m
+Author: M.Haroon <mharoonn2003@gmail.com>
+Date:   Sun Jul 28 13:33:38 2024 +0430
+
+    Simple Calculator fust add tow numbers
+
+[33mcommit 40c7a5d28f0ff00811ca72b0dffc0aa2a092eb56[m
+Author: M.Haroon <mharoonn2003@gmail.com>
+Date:   Sun Jul 28 09:51:38 2024 +0430
+
+    simple Caculator
